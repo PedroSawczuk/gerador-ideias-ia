@@ -21,7 +21,7 @@ O **Gerador de Ideias de Programação** é uma aplicação que utiliza a GEMINI
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/gerador-ideias-programacao.git
+   git clone https://github.com/PedroSawczuk/gerador-ideias-programacao.git
     ```
 2. Instale as dependências:
    ```bash
